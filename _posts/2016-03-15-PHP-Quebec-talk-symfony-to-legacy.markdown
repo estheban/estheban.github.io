@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "De Symfony à Legacy"
+title:  "De Legacy à Symfony"
 date:   2016-03-15 15:00:00
 category: talk
 tags: [symfony, legacy, refactor]
